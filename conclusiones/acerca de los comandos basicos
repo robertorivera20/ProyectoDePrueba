@@ -1,0 +1,43 @@
+Para finalizar esta practica de git entendí que es simple aprender git y github, la clave está en saber para que sirve cada cosa.
+Git es una terminal que ejecuta comandos. 
+Github es una plataforma donde puedes almacenar archivos en un repositorio.
+Un repositorio es un espacio de almacenamiento remoto en el cual puedes guardar archivos y consultarlos manualmente o por medio de git.
+Git y Github van de la mano hasta el momento solo entiendo que para usar los repositorios en Github la unica terminal que se puede usar es git.
+
+Caracteristicas de Git:
+*Esta terminal ejecuta comando similares a las terminar de debian e ubuntu. Recuerdo al profe Henry en una ocación dijo que la misma terminal de git es lo mismo que cualquier otra terminal y usted decide cual terminal quiere usar. ademas de git tambien exite el cmd en windows, powers shell esas son otras consolas similares a git.
+*Para iniciar git debes tener un e-mail.
+*Lo primero es configurar git con tu correo, un nombre de usuario y una buena contraseña.  
+*En resumen Git sirve para conectarse a un repositorio en Github y gestionar los archivos.
+
+Caracteristicas de Github:
+*Github almacena repositorios y permite la gestión manual de los repositorios aunque es más agil y rapido hacerlo con git.
+*Github es una red social para informaticos, se puede ver el nivel de una persona por medio de sus proyectos en Github. 
+*Github puede usar protocolo ssh (secureshell) para conectarse al repositorio de una manera muy segura.
+*Gitgub puede almacenar tu proyecto y tambien ofrece servicio gratuito de hosting para publicar tu proyecto en internet.
+*En resumen con Github puedes ver que tan buena es una persona desarrollando. 
+¿no sería facil pedirle el perfil de github a una persona? Github es la plataforma mas usada cualquier persona que sea muy buena 
+se vera su reflejo en cómo está elaborado su perfil y los proyectos de su repositorio.
+
+Comandos Basicos:
+Git config - sirve para configurar tu correo y nombre de usuario para identificarte en la red.
+Git init - sirve para iniciar(Crear) un repositorio en la ruta(ubicación en archivos) donde estes. ejecutandolo se crea la carpeta oculta (.git).
+Git clone - conecta la terminal git con un repositorio remoto, extrae archivos del repositorio. 
+Git pull - actualiza los archivos con los ultimos cambios del repositorio remoto.
+vim - es un editor de archivos dentro de git, permite crear un archivo y añadirle información.
+cat - permite ver el contenido de un archivo. 
+Git add - Permite añadir un archivo al staging area (area de ensayo).
+Git commit - Permite guardar cambios en los archivos y almacenarlos de manera local.
+Git Push - Permite enviar los cambios (Commits) a un repositorio de manera remota. 
+Git remote - permite ver las conexiones remotas. 
+Git branch - permite crear una rama de trabajo (similar a crear un usuario nuevo que trabaja externo en tu repositorio)
+Git checkout - permite moverte entre las ramas. permite moverte a un commit especifico y ver la información de ese commmit.
+Git fetch - sirve para verificar cambios antes de hacer un pull.
+Git Revert - sirve para regresar a un commit de manera loca sin dañar el historial de commits.
+Git merge - permite fusionar ramas, es necesario ejecutarlo desde la rama principal para fusionar con ramas externas. 
+
+En resumen:
+Git-Github es un sistema que guarda cambios el cual permite manipular dichos cambios. 
+
+
+
